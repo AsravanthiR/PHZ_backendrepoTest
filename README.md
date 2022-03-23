@@ -13,7 +13,7 @@ git archive --format=tar HEAD | tar x -C ~/workspace/docker/project-name
 
 ### 1.4. Use Cases
 
-### 1.5. Non-Functional Requirements
+### 1.5. Non-Functional Requirements.
 
 https://wiki.phz.fi/NonFunctionalRequirements
 
