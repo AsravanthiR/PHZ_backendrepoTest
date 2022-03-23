@@ -1,0 +1,23 @@
+{
+  "name": "phz_backendrepotest",
+  "version": "1.0.0",
+  "description": "Usage: git archive --format=tar HEAD | tar x -C ~/workspace/docker/project-name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsravanthiR/PHZ_backendrepoTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsravanthiR/PHZ_backendrepoTest/issues"
+  },
+  "homepage": "https://github.com/AsravanthiR/PHZ_backendrepoTest#readme",
+  "dependencies": {
+    "mariadb": "^3.0.0"
+  }
+}
