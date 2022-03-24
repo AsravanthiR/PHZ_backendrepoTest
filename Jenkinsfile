@@ -11,7 +11,7 @@ pipeline{
                 sh 'node App.js'
             }
         }
-        stage ("test"){*
+        stage ("test"){
         steps {
             echo 'testing our app...'
         }
